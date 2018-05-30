@@ -15,3 +15,6 @@ Sample website with plenty of files for demos
 ## How To Contribute
 
 Contribute section
+
+### Copyright
+2018 Git.Train 
