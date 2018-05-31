@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<!--
+Copyright 2018 Git-Train
+-->
+<head>
+<<<<<<< HEAD
+	<title>Very Giddy Website</title>
+=======
+	<title>Great Site</title>
+>>>>>>> realwork
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<style>
+		body {
+			padding-top: 50px;
+			padding-bottom: 20px;
+		}
+	</style>
+	<link rel="stylesheet" href="css/bootstrap-theme.min.css">
+</head>
+<body>
+	<main class="container">
+	<!-- Content Goes Here -->
+		<p>
+<<<<<<< HEAD
+			I am not sure what will go here.
+		</p>
+	</main>
+	<footer class="container">
+		<p>&copy; Someone 2014</p>
+=======
+			Just some content and more content.
+		</p>
+	</main>
+	<footer class="container">
+		<p>&copy; This is my Co 2014</p>
+>>>>>>> realwork
+	</footer>
+</body>
+</html>
